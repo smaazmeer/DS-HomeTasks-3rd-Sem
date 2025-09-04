@@ -66,7 +66,6 @@ class ResearchPaper
 
 int main()
 {
-    // Create research paper with 2 authors
     ResearchPaper paper1(2);
     paper1.setAuthor(0, "irfan");
     paper1.setAuthor(1, "talha");
